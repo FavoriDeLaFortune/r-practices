@@ -1,0 +1,28 @@
+Number of matrix elements: 121
+Number of rows: 11
+Number of cols: 11
+Sum of main diag elements: 3.20587634256484
+Sum of middle row elements: 11
+Sum of middle column elements: 11
+1 row sum: 0.975761275706893
+2 row sum: -1.18838346729091
+3 row sum: 1.35350902024374
+4 row sum: -1.47163692535967
+5 row sum: 1.54266323466428
+6 row sum: 11
+7 row sum: 1.54266323466428
+8 row sum: -1.47163692535967
+9 row sum: 1.35350902024374
+10 row sum: -1.18838346729091
+11 row sum: 0.975761275706893
+1 column sum: 0.975761275706893
+2 column sum: -1.18838346729091
+3 column sum: 1.35350902024374
+4 column sum: -1.47163692535967
+5 column sum: 1.54266323466428
+6 column sum: 11
+7 column sum: 1.54266323466428
+8 column sum: -1.47163692535967
+9 column sum: 1.35350902024374
+10 column sum: -1.18838346729091
+11 column sum: 0.975761275706893
